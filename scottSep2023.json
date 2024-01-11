@@ -1,0 +1,59 @@
+{
+"sheet_config": {
+    "Key Initiatives & Projects": {
+      "table_name": "table_key_initiatives_&_projects",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "MOE & PWC Ratings": {
+      "table_name": "table_moe_&_pwc_ratings",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "Renewal Backlogs": {
+      "table_name": "table_renewal_backlogs",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "Time Stamping": {
+      "table_name": "table_time_stamping",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "UBO MI": {
+      "table_name": "table_ubo_mi",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "PEP Register": {
+      "table_name": "table_pep_register",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "Exit Register": {
+      "table_name": "table_exit_register",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "Accuity Alert MI": {
+      "table_name": "table_accuity_alert_mi",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "Inspections": {
+      "table_name": "table_inspections",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "Warnings & Fines": {
+      "table_name": "table_warnings_&_fines",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    },
+    "SAR Register": {
+      "table_name": "table_sar_register",
+      "start_cell": "A1",
+      "end_cell": "Z100"
+    }
+}
+}

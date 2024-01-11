@@ -1,0 +1,54 @@
+{
+    "sheet_config": {     
+      "Gate Entry Data": {
+        "table_name": "table_gate_entry_data",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Gate Entry Rev": {
+        "table_name": "table_gate_entry_rev",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Weighbridge": {
+        "table_name": "table_weighbridge",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Weighbridge Rev": {
+        "table_name": "table_weighbridge_rev",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Activities": {
+        "table_name": "table_activities",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Toll Gate": {
+        "table_name": "table_toll_gate",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Housekeeping": {
+        "table_name": "table_housekeeping",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "HK Rev": {
+        "table_name": "table_hk_rev",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Other Rev": {
+        "table_name": "table_other_rev",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Assets": {
+        "table_name": "table_assets",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      }
+    }
+  }

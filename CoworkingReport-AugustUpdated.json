@@ -1,0 +1,89 @@
+{
+    "sheet_config": {  
+      "Client Usage": {
+        "table_name": "table_client_usage",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Sheet2": {
+        "table_name": "table_sheet2",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Staff Usage": {
+        "table_name": "table_staff_usage",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Printing": {
+        "table_name": "table_printing",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Meeting Rooms Usage - 2022": {
+        "table_name": "table_meeting_rooms_usage_-_2022",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Meeting Rooms Usage - 2023": {
+        "table_name": "table_meeting_rooms_usage_-_2023",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Free Breakfast": {
+        "table_name": "table_free_breakfast",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Pvt office booking": {
+        "table_name": "table_pvt_office_booking",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "memberships ": {
+        "table_name": "table_memberships_",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Access Card ": {
+        "table_name": "table_access_card_",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Mail Handling Serv valid ": {
+        "table_name": "table_mail_handling_serv_valid_",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Mail Handling Serv 2021- edit ": {
+        "table_name": "table_mail_handling_serv_2021-_edit_",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Waiting list": {
+        "table_name": "table_waiting_list",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Lockers usage": {
+        "table_name": "table_lockers_usage",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Returned Cards": {
+        "table_name": "table_returned_cards",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "Giveaways list ": {
+        "table_name": "table_giveaways_list_",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      },
+      "dropdown": {
+        "table_name": "table_dropdown",
+        "start_cell": "A1",
+        "end_cell": "Z100"
+      }
+    }
+  }
